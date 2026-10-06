@@ -21,7 +21,6 @@ I'm passionate about technology, software development, artificial intelligence, 
 ### 📫 Connect with me
 
 GitHub: [@Soheilmoradi1234](https://github.com/Soheilmoradi1234)
-gmail: s98601847@gmail.com
 
 ---
 
