@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Soheil 👋
 
-<!--
-**Soheilmoradi1234/Soheilmoradi1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Building, Learning & Growing 🚀
 
-Here are some ideas to get you started:
+I'm passionate about technology, software development, artificial intelligence, robotics, and building useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently learning and improving my development skills
+- 🤖 Exploring Artificial Intelligence and Robotics
+- 🚀 Building projects and experimenting with new technologies
+- 📚 Always learning something new
+- 🎯 Working toward becoming a professional software developer
+
+---
+
+### 🛠️ Technologies I'm Currently Learning
+
+`Python` `Java` `JavaScript` `C` `C++` `C#` `HTML` `Artificial Intelligence` `Robotics` `Git` `GitHub`
+
+---
+
+### 📫 Connect with me
+
+GitHub: [@Soheilmoradi1234](https://github.com/Soheilmoradi1234)
+gmail: s98601847@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
